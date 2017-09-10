@@ -26,7 +26,7 @@
 
 下载地址：[.netreflector](https://www.red-gate.com/dynamic/products/dotnet-development/reflector/download)
 
-[具体示例]()
+[具体示例](https://github.com/numsg/software-maintenance/blob/master/90%20docs/netreflector.md)
 
 ### 3.2 ILSpy(c#代码反编译调试工具)
 这个工具主要用来调试在运维过程中发现的BUG。在运维过程中，出现问题的概率是很大的，而有些问题，我们通过走查代码又很难发现，这时，ILSpy就排上用场了，通过直接反编译dll，附加到运行的exe进程进行调试，调试方法类似于vs。
