@@ -102,11 +102,9 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 2. GG不能连通
 3. 数据库服务器上的tnsnames.ora不准确。
 
-### 启动客户端出现运行时错误
+### 启动客户端出现c++运行时错误
 
 一般是使用c++的动态库错误造成(可以修改使用c++问题，如替换MXD,还可以修改环境变量解决)
-
-### 启动客户端出现运行时错误
 
 
 
