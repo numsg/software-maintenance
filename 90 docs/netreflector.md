@@ -14,33 +14,33 @@
 ## Dll注入修改代码步骤
 
 例如，代码行如下，
- ![](1.png)
+ ![](image/1.png)
 
 需要将phoneRecordingInformationRepository修改成成员变量。
 步骤如下：
 1.	用.netreflector打开Gs.Cas.SCSF.IncidentAppealModule.dll
 2.	添加类成员变量
- ![](2.png)
+ ![](image/2.png)
 3.	添加完成后，修改代码如下图，
-![](3.png)
+![](image/3.png)
 4.	修改方法，在里面添加响应的代码
- ![](4.png)
+ ![](image/4.png)
 5.	替换dll引用         
-  ![](5.png)
+  ![](image/image/5.png)
 6.	并且注意类之间的继承关系，
- ![](6.png)
+ ![](image/6.png)
 7.	点击编译，成功后，点击ok
- ![](7.png)
+ ![](image/7.png)
 8.	然后另存为，保存dll即可。
- ![](8.png)
+ ![](image/8.png)
 9.	在保存的dll里面发现多了一个未知的引用  
- ![](9.png)
+ ![](image/9.png)
 10.	先找到这个类的对象    
- ![](10.png)
+ ![](image/10.png)
 11.	用.net Reflector再次打开最新的即可，打开对象初始化的地方
- ![](11.png)
+ ![](image/11.png)
 12.	移除这个引用    
- ![](12.png)
+ ![](image/12.png)
 13.	将变量修改成对应的变量引用即可
 14.	最后再次保存为dll
 
