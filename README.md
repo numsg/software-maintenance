@@ -38,7 +38,9 @@
 
 [windbg常用命令](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-command.md)
 
-[windbg系列之查看内存对象的值]()
+[windbg系列之查看内存对象的值](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-memery-value.md)
+
+[windbg系列之分析访问受保护的内存]()
 
 ### 3.4 PLSQL
 
