@@ -60,7 +60,7 @@
 
 [工具下载 c++版本](https://github.com/numsg/software-maintenance/blob/master/01%20tools/authorizetool.zip)
 
-[工具下载 c#版本](https://github.com/numsg/software-maintenance/blob/master/01%20tools/C#author.zip)
+[工具下载 c#版本](https://github.com/numsg/software-maintenance/blob/master/01%20tools/C%23%E7%89%88author.zip)
 
 ### 3.7 db_back
 
