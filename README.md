@@ -58,6 +58,10 @@
 
 这个主要是用来将客户端程序可使用的内存上限提升到4GB，适用于c# c++ 的exe程序。
 
+[工具下载 c++版本](https://github.com/numsg/software-maintenance/blob/master/01%20tools/authorizetool.zip)
+
+[工具下载 c#版本](https://github.com/numsg/software-maintenance/blob/master/01%20tools/C#author.zip)
+
 ### 3.7 db_back
 
 这个工具主要是用来对数据基础数据及数据字典进行备份。
