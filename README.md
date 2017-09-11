@@ -42,13 +42,17 @@
 
 [windbg系列之分析访问受保护的内存](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-access-protect.md)
 
+[windbg系列之分析程序UI卡住](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-ui.md)
+
 ### 3.4 PLSQL
 
 这个主要是用来对数据库的检查的。
 
 ### 3.5 PortViewer
 
-这个主要是用来查看某台PC机端口的使用情况
+这个主要是用来查看某台PC机端口的使用情况。
+
+[端口问题处理](https://github.com/numsg/software-maintenance/blob/master/90%20docs/port-viewer.md)
 
 ### 3.6 4GB内存工具
 
