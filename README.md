@@ -38,9 +38,9 @@
 
 [windbg常用命令](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-command.md)
 
-[windbg系列之查看内存对象的值](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-memery-value.md)
+[windbg系列之查看内存对象的值](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-memory-value.md)
 
-[windbg系列之分析访问受保护的内存]()
+[windbg系列之分析访问受保护的内存](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-access-protect.md)
 
 ### 3.4 PLSQL
 
@@ -84,6 +84,8 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 ### 4.5 客户端提升内存溢出
 
 使用4GB内存工具将exe包装一把即可
+
+[内存溢出另类解决方案]()
 
 ### 4.5 客户端视频都点播不起来，点播起来也需要好长时间
 
