@@ -43,7 +43,7 @@ ECU911系统是个很复杂庞大的业务系统，超1G内存的消耗也是很
   ![](image/outmemory-2.png)
 我们改变此应用程序的寻址方式。
 操作步骤如下，
-运行软件 [authorizetool]()（这里我们对外称，我们是对我们的软件在进行授权！）
+运行软件 [authorizetool](https://github.com/numsg/software-maintenance/blob/master/01%20tools/authorizetool.zip)（这里我们对外称，我们是对我们的软件在进行授权！）
 
 找到我们的exe
    ![](image/outmemory-3.png)

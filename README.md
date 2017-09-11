@@ -85,7 +85,7 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 
 使用4GB内存工具将exe包装一把即可
 
-[内存溢出另类解决方案]()
+[内存溢出另类解决方案](https://github.com/numsg/software-maintenance/blob/master/90%20docs/outofmemory.md)
 
 ### 4.5 客户端视频都点播不起来，点播起来也需要好长时间
 
