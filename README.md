@@ -29,12 +29,16 @@
 [具体示例](https://github.com/numsg/software-maintenance/blob/master/90%20docs/netreflector.md)
 
 ### 3.2 ILSpy(c#代码反编译调试工具)
-这个工具主要用来调试在运维过程中发现的BUG。在运维过程中，出现问题的概率是很大的，而有些问题，我们通过走查代码又很难发现，这时，ILSpy就排上用场了，通过直接反编译dll，附加到运行的exe进程进行调试，调试方法类似于vs。
+这个工具主要用来调试在运维过程中发现的BUG。在运维过程中，出现问题的概率是很大的，而有些问题，我们通过走查代码又很难发现，这时，ILSpy就派上用场了，通过直接反编译dll，附加到运行的exe进程进行调试，调试方法类似于vs。
 
 后面通过一个详细的例子来讲解怎么使用？
 
 ### 3.3 windbg(windows内核调试工具)
 这个工具主要是来解决一些疑难杂症。可以清楚知道应用程序的运行的加载过程，可以分析应用程序运行过程中的内存镜像，还可以分析应用程序某一刻运行的内存快照dump文件，还可以分析应用程序运行过程中产生的线程等等。
+
+[windbg常用命令](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-command.md)
+
+[windbg系列之查看内存对象的值]()
 
 ### 3.4 PLSQL
 
