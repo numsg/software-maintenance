@@ -44,6 +44,9 @@
 
 [windbg系列之分析程序UI卡住](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-ui.md)
 
+[windbg系列之分析程序UI卡住 -1](https://github.com/numsg/software-maintenance/blob/master/90%20docs/windbg-ui-1.md)
+
+
 ### 3.4 PLSQL
 
 这个主要是用来对数据库的检查的。
