@@ -69,6 +69,8 @@
 
 这个工具主要是用来对数据基础数据及数据字典进行备份。
 
+[工具使用说明](https://github.com/numsg/software-maintenance/blob/master/90%20docs/db-back.md)
+
 ## 4 常见问题分析
 
 ### 4.1 分布式事务处理异常
