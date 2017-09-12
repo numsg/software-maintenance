@@ -77,6 +77,8 @@
 
  解决方案: 重新安装msdtc服务，dtc服务允许 出栈和入栈。
 
+ [具体解决方案](https://github.com/numsg/software-maintenance/blob/master/90%20docs/msdtc.md)
+
 ### 4.2 win7开机报错
 
 win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.exe。 
