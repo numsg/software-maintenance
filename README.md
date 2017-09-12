@@ -89,7 +89,7 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 
 主要原因是：ODAC的安装顺序与.netframework的安装顺序不对。
 解决方案有两种：
-1. 需要执行脚本oracleforframework.bat
+1. 需要执行脚本[oracleforframework.bat](https://github.com/numsg/software-maintenance/blob/master/03%20scripts/oracleforframework.bat)
 2. 重新安装一下.netframework
 
 ### 4.4 客户端在安装时发现不能安装，提升找不到arcgis9.3
