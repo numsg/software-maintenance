@@ -116,6 +116,8 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 
 ### 4.8 数据库rac一个节点不能启动
 
+中心断电后，启动数据库，发现其中一个节点不能起来。 解决方案： 将该节点多重启几次
+
 数据库因为调整网络后，一个节点不能起来，报错ora-00603，ora-27504。检查发现用于互联的eth1没有up，也相当于整个节点没有连接到交换机。
 
 解决方案：将eth1 up，启动数据库即可(startup mount； alert database open)
