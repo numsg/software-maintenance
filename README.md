@@ -21,7 +21,7 @@
 
 下面来分享一下本人在现在运维过程中常用到的一些工具(有了这些工具，在运维过程中遇到的问题，基本99%都可以解决)。
 
-### 3.1 .netreflector(c#地面饭编译工具)
+### 3.1 .netreflector(c#代码反编译工具)
 这个工具主要是解决修复现场的某些很紧急的BUG缺陷。因为一般在运维现场不会有打包发布的流程，而当我们在现场运维过程中遇到了一些很紧急的BUG的话，而又来不及及时打包，这时我们就可以使用这个工具，对需要修改的dll进行IL注入，修改完成后，通过替换dll来达到修复BUG的目标。
 
 下载地址：[.netreflector](https://www.red-gate.com/dynamic/products/dotnet-development/reflector/download)
