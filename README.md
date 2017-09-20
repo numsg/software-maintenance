@@ -53,7 +53,7 @@
 
 [PLSQL 登录时一直卡住](https://github.com/numsg/software-maintenance/blob/master/90%20docs/plsql-loginfail.md)
 
-[PLSQL乱码问题解决方案]()
+[PLSQL乱码问题解决方案](https://github.com/numsg/software-maintenance/blob/master/90%20docs/plsql-code.md)
 
 ### 3.5 PortViewer
 
