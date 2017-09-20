@@ -96,11 +96,11 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 1. 需要执行脚本[oracleforframework.bat](https://github.com/numsg/software-maintenance/blob/master/03%20scripts/oracleforframework.bat)
 2. 重新安装一下.netframework
 
-### 4.4 客户端在安装时发现不能安装，提升找不到arcgis9.3
+### 4.4 客户端在安装时发现不能安装，提示找不到arcgis9.3
 
 其实我们客户端是没有依赖arcgis9.3环境的，主要原因是使用域控分发策略，使得注册表installer目录下有了老版本的安装包信息，将其删除掉即可。
 
-### 4.5 客户端提升内存溢出
+### 4.5 客户端提示内存溢出
 
 使用4GB内存工具将exe包装一把即可
 
