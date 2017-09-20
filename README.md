@@ -132,6 +132,7 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 1. 磁带库已满
 2. GG不能连通
 3. 数据库服务器上的tnsnames.ora不准确。
+4. [硬件问题]()
 
 ### 4.10 启动客户端出现c++运行时错误
 
