@@ -50,7 +50,8 @@
 ### 3.4 PLSQL
 
 这个主要是用来对数据库的检查的。
-[PLSQL 一直卡住登录]()
+
+[PLSQL 一直卡住登录](https://github.com/numsg/software-maintenance/blob/master/90%20docs/plsql-loginfail.md)
 
 ### 3.5 PortViewer
 
