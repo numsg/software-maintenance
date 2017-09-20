@@ -53,6 +53,8 @@
 
 [PLSQL 登录时一直卡住](https://github.com/numsg/software-maintenance/blob/master/90%20docs/plsql-loginfail.md)
 
+[PLSQL乱码问题解决方案]()
+
 ### 3.5 PortViewer
 
 这个主要是用来查看某台PC机端口的使用情况。
