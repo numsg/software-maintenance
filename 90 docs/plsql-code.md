@@ -36,8 +36,8 @@ NLS_Territory 指定:
 
 客户端字符集（CLIENTS CHARACTERSET）:
 - 定义Oracle客户端，客户应用使用的编码
-* 或者它要符合您Microsoft Windows代码页 （GUI工具的ACP, 命令提示符的CHCP 值）
-* 或者为Unicode WIN32应用设置为UTF8/AL32UTF8。
+- 或者它要符合您Microsoft Windows代码页 （GUI工具的ACP, 命令提示符的CHCP 值）
+- 或者为Unicode WIN32应用设置为UTF8/AL32UTF8。
 
 
 常见的值可以参见[Oracle Database Client Globalization Support](http://docs.oracle.com/html/B10131_02/gblsupp.htm
