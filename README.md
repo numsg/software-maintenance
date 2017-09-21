@@ -140,6 +140,9 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 一般是使用c++的动态库错误造成(可以修改使用c++问题，如替换MXD,还可以修改环境变量解决)
 
 
+## 5 其它
+
+
 待续...
 
 
