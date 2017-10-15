@@ -75,6 +75,13 @@
 
 [工具使用说明](https://github.com/numsg/software-maintenance/blob/master/90%20docs/db-back.md)
 
+### 3.7 数据库性能监控手段
+
+这篇文章主要是用来对orale数据库性能的监控
+
+[使用说明](https://github.com/numsg/software-maintenance/blob/master/90%20docs/db-back.md)
+
+
 ## 4 常见问题分析
 
 ### 4.1 分布式事务处理异常
