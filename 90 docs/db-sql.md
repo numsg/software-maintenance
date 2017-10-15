@@ -13,7 +13,7 @@
 
  ![](image/db-g.png)
 
-在这里可以查看数据的吞吐量，I/O，并行，平均会话数等一些性能指标。当然还可以查看哪些性能较差的sql。[具体实际应用]()
+在这里可以查看数据的吞吐量，I/O，并行，平均会话数等一些性能指标。当然还可以查看哪些性能较差的sql。[具体实际应用](https://github.com/numsg/software-maintenance/blob/master/90%20docs/db-sql-1.md)
 
 
 ### 使用数据库客户端(如PL/SQL)
@@ -86,4 +86,4 @@ wait_time=0 AND st.event NOT LIKE '%SQL%' ORDER BY physical_reads DESC
  ![](image/db-j.png)
 
 
-好了，说了这么监控数据库性能的一些手段，有人会怀疑了，这些真的有用吗？是的，这些是真的有用，下面再分享一次系统因数据库运行缓慢故障解决方案。
+好了，说了这么监控数据库性能的一些手段，有人会怀疑了，这些真的有用吗？是的，这些是真的有用，[下面再分享一次系统因数据库运行缓慢故障解决方案]((https://github.com/numsg/software-maintenance/blob/master/90%20docs/db-sql-1.md))。
