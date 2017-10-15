@@ -86,4 +86,4 @@ wait_time=0 AND st.event NOT LIKE '%SQL%' ORDER BY physical_reads DESC
  ![](image/db-j.png)
 
 
-好了，说了这么监控数据库性能的一些手段，有人会怀疑了，这些真的有用吗？是的，这些是真的有用，[下面再分享一次系统因数据库运行缓慢故障解决方案]((https://github.com/numsg/software-maintenance/blob/master/90%20docs/db-sql-1.md))。
+好了，说了这么监控数据库性能的一些手段，有人会怀疑了，这些真的有用吗？是的，这些是真的有用，[下面再分享一次系统因数据库运行缓慢故障解决方案](https://github.com/numsg/software-maintenance/blob/master/90%20docs/db-sql-1.md)。
