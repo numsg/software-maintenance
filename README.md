@@ -137,7 +137,7 @@ win7开机报错: Windows 7: Runtime Error! Program: C\:windows\system32\nvvsvc.
 原因：
 
 1. 磁带库已满
-2. GG不能连通
+2. GG不能连通(或者DG不能连通)
 3. 数据库服务器上的tnsnames.ora不准确。
 4. [硬件问题](https://github.com/numsg/software-maintenance/blob/master/90%20docs/dp-fail.md)
 5. 磁带卡住
